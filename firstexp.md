@@ -20,7 +20,7 @@ title: Creating your first experience
 <p>Next add a description of the experience. This should make sure the guest understands exactly what the experience entails.</p>
 ![Add description](/assets/images/description.gif){:class="img-responsive"}
 <p>The map allows you to show guests the areas where you'll be taking them. Place up to four pins on the map. The map is also used for search results, so it's important to be accurate.</p>
-![Set map](/assets/images/map.gif){:class="img-responsive"}
+![Set map](/assets/images/maps.gif){:class="img-responsive"}
 <p>Next you'll need to set the maximum number of people that the experience can take, and pricing. You don't have to offer 2-hour and 4-hour options, you just have to offer one. If you do offer both, we suggest that the 4-hour experience is priced less than twice the 2-hour experience, so there's an incentive for guests to chose the longer experience.</p>
 ![Set price](/assets/images/price.gif){:class="img-responsive"}
 <p>It is important to add either a meeting point or pickup availability. The pickup option allows free text entry, so you can describe the areas where pickup is available.</p>
