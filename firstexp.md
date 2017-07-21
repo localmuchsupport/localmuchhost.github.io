@@ -12,4 +12,10 @@ title: Creating your first experience
 <p>Once you've got a great idea, it's time to get building!</p>
 <h2>Building your experience</h2>
 <p>To get started, go to your profile, then click 'Create new experience'.</p>
-![Create new experience](/assets/images/create.gif){:class="img-responsive"}
+![Create new experience](/assets/images/createexperience.gif){:class="img-responsive"}
+<p>Choose a title for your experience. The title is the first thing people will read about your experience, so make it catchy and to the point.</p>
+![Add title](/assets/images/title.gif){:class="img-responsive"}
+<p>Add some short points describing the experience. There should be at least three short points. These are the second thing a guest will read so should provide more details to convince them to click on your experience.</p>
+![Add dotpoints](/assets/images/points.gif){:class="img-responsive"}
+
+
