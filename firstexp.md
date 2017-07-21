@@ -12,3 +12,4 @@ title: Creating your first experience
 <p>Once you've got a great idea, it's time to get building!</p>
 <h2>Building your experience</h2>
 <p>To get started, go to your profile, then click 'Create new experience'.</p>
+[!Create new experience](/assets/images/create.gif){:class="img-responsive"}
