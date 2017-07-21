@@ -6,6 +6,6 @@
 
 <h1>Policies</h1>
 <ul>
-<li><a href="{{ site.baseurl }}//hostterms">Terms and Conditions</a></li>
+<li><a href="{{ site.baseurl }}//hostterms">Host Terms and Conditions</a></li>
 </ul>
 
