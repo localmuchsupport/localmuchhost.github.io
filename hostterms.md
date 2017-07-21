@@ -38,5 +38,5 @@ title: Host Terms and Conditions |
 </ul>
 <h3>Our service</h3>
 <p>In consideration of, and subject to, the above, LocalMuch will provide a platform and associated support to facilitate your functions as a host.</p>
-<p>We do not guarantee any level of </p>
+<p>We do not guarantee any minimum level of service or bookings of your experience.</p>
 <p>We encourage all hosts to work closely with our LocalMuch Host Support Team to maximise their opportunity on the platform. They can be contacted at <a href="mailto:host@localmuch.com">host@localmuch.com</a>.</p>
