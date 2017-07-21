@@ -22,7 +22,7 @@ title: Host Terms and Conditions |
 <ul>
 <li>Maintain their experiences' availability;</li>
 <li>Be available to provide experiences in accordance with the provided availability, including receiving bookings up to 12 hours before the guest's nominated start date and time;</li>
-<li>Accept bookings without discrimination;</li>
+<li>Accept bookings and provide a service without discrimination;</li>
 <li>Cancel bookings only when absolutely required and due to unforeseen circumstances;</li>
 <li>Promptly message and reply to messages from guests;</li>
 <li>Be punctual and prepared for all experiences.</li>
