@@ -29,7 +29,7 @@ title: Creating your first experience
 ![Categories](/assets/images/tags.gif){:class="img-responsive"}
 <p>Finally, now you have an idea of what your experience is, you should upload some pictures. Be sure to pick images which get guests excited and show the vibrancy of your experience. The top picture will be used as the thumbnail for your experience.</p>
 <p>Ensure all your images are in high resolution so our guests have the best experience when viewing them.</p>
-<p><strong>If you've selected 'Submit review for experience', you must complete every section before saving. Your experience will then be reviewed by us and if approved, made available.</p>
+<p><strong>If you've selected 'Submit review for experience', you must complete every section before saving. Your experience will then be reviewed by us and if approved, made available.</strong></p>
 <p>Now head over to your experiences and you'll see your experience in the Pending section if it was submitted for review.</p>
 ![Pending](/assets/images/pending.gif){:class="img-responsive"}
 <p>Congratulations on making your first experience! We're always here to help if you need it, just drop us line to <a href="mailto:host@localmuch.com">host@localmuch.com</a></p>.
